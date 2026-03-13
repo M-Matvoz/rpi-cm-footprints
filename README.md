@@ -1,5 +1,5 @@
 # rpi-cm-footprints
-Altium footprints for the raspberry Pi Compute Modules 4 and 5, that I designed for a personal project. I am now sharing them with the greater public. The design is intended to be as accurate as possible, yet adaptable to the concrete use cases of the circuit designer. Each variant has subvariants for different standoff heights.
+Altium footprints for the Raspberry Pi Compute Modules 4 and 5, that I designed for a personal project. I am now sharing them with the greater public. The design is intended to be as accurate as possible, yet adaptable to the concrete use cases of the circuit designer. Each variant has subvariants for different standoff heights.
 
 ## CM 5
 [Link to documentation](https://pip-assets.raspberrypi.com/categories/944-raspberry-pi-compute-module-5/documents/RP-008180-DS-6-cm5-datasheet.pdf?disposition=inline)
