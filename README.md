@@ -22,3 +22,6 @@ Technically speaking, one could use the connectors and standoffs of the CM4 foot
 
 # Disclaimer
 The design of the CM4 footprint has been thoroughly tested. The design *should* work for the CM5, since the raw footprint did not change, as per the Appendix B of the CM5 spec sheet, and by comparing Chapter 3 of the CM4 documentation and Chapter 4 of the CM5 documentation. However, I am yet to check that on a concrete project. The only thing that actually changed were the components being used. That being said, ***the creator is not responsible for any wrong pinout or incorrect positions that might have occured during the design phase. If you notice any, please, feel free to create an issue and I will get to it ASAP***.
+
+# Licence
+This work is issued under [CERN OHL v2 Permissive](https://choosealicense.com/licenses/cern-ohl-p-2.0/).
